@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594293022592",
+    "project_id": "facedetection-d4d02",
+    "storage_bucket": "facedetection-d4d02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594293022592:android:b2218b2b5b4a643bcc6b65",
+        "android_client_info": {
+          "package_name": "vivek.in.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594293022592-o7hogvbm9ih9npnt310m9fhjpfngmq3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdajwq2PBBAvTdD-v3ZZRbqz56wRzSVp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594293022592-o7hogvbm9ih9npnt310m9fhjpfngmq3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
